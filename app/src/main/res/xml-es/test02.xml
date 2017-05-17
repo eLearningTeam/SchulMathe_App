@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE test SYSTEM "test.dtd"> -->
+<test id="1" lang="deutsch">
+    <aufgaben>
+        <aufgabe id="1">
+            <text>Simplifique al máximo las siguientes expresiones:</text>
+            <bild>test02aufgabe001</bild>
+            <hilfe>
+                <value>https://www.mathsisfun.com/fractions_addition.html</value>
+                <value>https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/fractions-unlike-denom-pre-alg/v/adding-fractions-with-unlike-denominators</value>
+                <value>https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/fractions-unlike-denom-pre-alg/v/adding-fractions-ex-1</value>
+                <value>https://www.youtube.com/watch?v=5juto2ze8Lg</value>
+            </hilfe>
+            <loesung>test02loesung001</loesung>
+            <time>6.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>3.16</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="2">
+            <text>Determine la ecuación de la tangente en el punto P(0) y la parábola:</text>
+            <bild>test02aufgabe002</bild>
+            <hilfe>
+                <value>http://www.wikihow.com/Find-the-Equation-of-a-Tangent-Line</value>
+                <value>https://www.youtube.com/watch?v=b6I6RlyL_jA</value>
+            </hilfe>
+            <loesung>test02loesung002</loesung>
+            <time>8.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>4.08</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="3">
+            <text>Determine la intersección P(0) de la parábola Y(1) y la línea recta Y(2):</text>
+            <bild>test02aufgabe003</bild>
+            <hilfe>
+                <value>http://calculator.tutorvista.com/point-of-intersection-calculator.html</value>
+                <value>http://zonalandeducation.com/mmts/intersections/intersectionOfTwoLines1/intersectionOfTwoLines1.html</value>
+            </hilfe>
+            <loesung>test02loesung003</loesung>
+            <time>7.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>0</avguf>
+            <avgdf></avgdf>
+            <avgut>3.5</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="4">
+            <text>Determine los ceros de la siguiente función:</text>
+            <bild>test02aufgabe004</bild>
+            <hilfe>
+                <value>http://www.analyzemath.com/function/zeros.html</value>
+                <value>http://www.wikihow.com/Find-the-Zeros-of-a-Function</value>
+            </hilfe>
+            <loesung>test02loesung004</loesung>
+            <time>7.0</time>
+            <avguc>100</avguc>
+            <avgdc></avgdc>
+            <avguf>0</avguf>
+            <avgdf></avgdf>
+            <avgut>3.4</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="5">
+            <text>Determine los puntos extremos y los puntos de inflexión de la siguiente función:</text>
+            <bild>test02aufgabe005</bild>
+            <hilfe>
+                <value>http://help.matheass.eu/en/CurveDiscussion.html</value>
+                <value>https://www.youtube.com/watch?v=vOTTuZflAIM</value>
+                <value>https://www.youtube.com/watch?v=0Fx6jec8SwY</value>
+                <value>https://www.youtube.com/watch?v=o2I3lajJklE</value>
+                <value>https://www.khanacademy.org/math/differential-calculus/derivative_applications/concavity-inflection-points/v/calculus-graphing-using-derivatives</value>
+            </hilfe>
+            <loesung>test02loesung005</loesung>
+            <time>8.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>0</avguf>
+            <avgdf></avgdf>
+            <avgut>4.0</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+    </aufgaben>
+</test>

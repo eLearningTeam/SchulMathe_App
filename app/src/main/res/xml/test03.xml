@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE test SYSTEM "test.dtd"> -->
+<test id="1" lang="deutsch">
+	<aufgaben>
+		<aufgabe id="1">
+			<text>Solve this task:</text>
+			<bild>test03aufgabe001</bild>
+			<hilfe>
+				<value>https://www.mathsisfun.com/geometry/triangles-similar.html</value>
+				<value>https://www.mathsisfun.com/pythagoras.html</value>
+				<value>http://www.regentsprep.org/regents/math/algebra/at2/ltrig.htm</value>
+				<value>https://www.easycalculation.com/analytical/altitude-of-triangles.php</value>
+				<value>https://www.youtube.com/watch?v=brxwLXei3so</value>
+			</hilfe>
+			<loesung>test03loesung001</loesung>
+			<time>5.0</time>
+            <avguc>100</avguc>
+            <avgdc></avgdc>
+            <avguf>2</avguf>
+            <avgdf></avgdf>
+            <avgut>2.36</avgut>
+            <avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="2">
+			<text>Solve this task:</text>
+			<bild>test03aufgabe002</bild>
+			<hilfe>
+				<value>http://www.mathworksheetsgo.com/triangle-calculators/area-of-triangle-calculator-online.php</value>
+                <value>https://www.youtube.com/watch?v=_ywdqdLrKxY</value>
+                <value>https://www.youtube.com/watch?v=fjUN809FPRs</value>
+			</hilfe>
+			<loesung>test03loesung002</loesung>
+			<time>6.0</time>
+            <avguc>100</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>3.16</avgut>
+            <avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="3">
+			<text>Solve this task:</text>
+			<bild>test03aufgabe003</bild>
+			<hilfe>
+                <value>http://www.mathworksheetsgo.com/triangle-calculators/area-of-triangle-calculator-online.php</value>
+                <value>https://www.youtube.com/watch?v=_ywdqdLrKxY</value>
+                <value>https://www.youtube.com/watch?v=fjUN809FPRs</value>
+			</hilfe>
+			<loesung>test03loesung003</loesung>
+			<time>7.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>3.11</avgut>
+            <avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="4">
+			<text>Determine the extreme points and the turning points of the following functions:</text>
+			<bild>test03aufgabe004</bild>
+			<hilfe>
+				<value>http://www.math.uiuc.edu/~r-ash/CV/CV5.pdf</value>
+                <value>https://www.youtube.com/watch?v=8WGMx6YYyA0</value>
+			</hilfe>
+			<loesung>test03loesung004</loesung>
+			<time>8.0</time>
+            <avguc>100</avguc>
+            <avgdc></avgdc>
+            <avguf>2</avguf>
+            <avgdf></avgdf>
+            <avgut>4.22</avgut>
+            <avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="5">
+			<text>Determine the zeros of the following function:</text>
+			<bild>test03aufgabe005</bild>
+			<hilfe>
+				<value>http://www.wtamu.edu/academic/anns/mps/math/mathlab/col_algebra/col_alg_tut38_zero1.htm</value>
+				<value>http://www.purplemath.com/modules/solvpoly.htm</value>
+                <value>https://www.youtube.com/watch?v=6ONgEmXJxw4</value>
+                <value>https://www.youtube.com/watch?v=h9MoF-ZA6n0https://www.youtube.com/watch?v=h9MoF-ZA6n0</value>
+                <value>https://www.youtube.com/watch?v=kK41EJMXrIg</value>
+			</hilfe>
+			<loesung>test03loesung005</loesung>
+			<time>6.0</time>
+            <avguc>100</avguc>
+            <avgdc></avgdc>
+            <avguf>0</avguf>
+            <avgdf></avgdf>
+            <avgut>3.09</avgut>
+            <avgdt></avgdt>
+		</aufgabe>
+	</aufgaben>
+</test>

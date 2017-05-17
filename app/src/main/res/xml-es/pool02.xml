@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE test SYSTEM "test.dtd"> -->
+<test id="1" lang="deutsch">
+    <aufgaben>
+        <aufgabe id="1">
+            <text>Resuelva la siguiente tarea:</text>
+            <bild>pool02aufgabe001</bild>
+            <hilfe>
+                <value>http://mathcentral.uregina.ca/QQ/database/QQ.09.04/brett1.html</value>
+                <value>http://mathcountsnotes.blogspot.de/2010/09/face-diagonal-and-space-diagonal.html</value>
+                <value>http://www.ditutor.com/solid_gometry/diagonal_cuboid.html</value>
+                <value>http://math.tutorcircle.com/geometry/how-to-find-the-diagonal-of-a-cube.html</value>
+                <value>https://www.youtube.com/watch?v=dWXIx5Th86s</value>
+            </hilfe>
+            <loesung>pool02loesung001</loesung>
+            <time>9.0</time>
+            <avguc>100</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>4.2</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="2">
+            <text>Resuelva la siguiente tarea:</text>
+            <bild>pool02aufgabe002</bild>
+            <hilfe>
+                <value>https://www.mathsisfun.com/triangle.html</value>
+                <value>https://www.youtube.com/watch?v=3ofFWpIOKZA</value>
+                <value>https://www.youtube.com/watch?v=X5uFqpypDy4</value>
+                <value>https://www.youtube.com/watch?v=nVTtSE5nv7c</value>
+                <value>https://www.youtube.com/watch?v=fjUN809FPRs</value>
+            </hilfe>
+            <loesung>pool02loesung002</loesung>
+            <time>7.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>0</avguf>
+            <avgdf></avgdf>
+            <avgut>3.4</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="3">
+            <text>Resuelva la siguiente tarea:</text>
+            <bild>pool02aufgabe003</bild>
+            <hilfe>
+                <value>https://www.mathsisfun.com/geometry/circle-area.html</value>
+                <value>http://www.ajdesigner.com/phpcircle/circle_normal_diameter_d.php</value>
+                <value>https://www.youtube.com/watch?v=tCrDyJsSFok</value>
+                <value>https://www.youtube.com/watch?v=eBAsK9jB91I</value>
+                <value>https://www.youtube.com/watch?v=ahOJtHBdBgE</value>
+            </hilfe>
+            <loesung>pool02loesung003</loesung>
+            <time>8.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>0</avguf>
+            <avgdf></avgdf>
+            <avgut>4.0</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="4">
+            <text>Resuelva la siguiente tarea:</text>
+            <bild>pool02aufgabe004</bild>
+            <hilfe>
+                <value>https://www.mathsisfun.com/geometry/tetrahedron.html</value>
+                <value>http://www.mathematische-basteleien.de/tetrahedron.htm</value>
+                <value>http://math.stackexchange.com/questions/11085/height-of-a-tetrahedron</value>
+                <value>http://www.quimica3d.com/en/cell.php</value>
+                <value>http://mathworld.wolfram.com/RegularTetrahedron.html</value>
+            </hilfe>
+            <loesung>pool02loesung004</loesung>
+            <time>3.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>0</avguf>
+            <avgdf></avgdf>
+            <avgut>1.0</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="5">
+            <text>Resuelva la siguiente tarea:</text>
+            <bild>pool02aufgabe005</bild>
+            <hilfe>
+                <value>https://www.mathsisfun.com/square-root.html</value>
+                <value>https://www.youtube.com/watch?v=bCDdQC-zrPs</value>
+                <value>https://www.youtube.com/watch?v=7Li5F_XHm-A</value>
+            </hilfe>
+            <loesung>pool02loesung005</loesung>
+            <time>3.0</time>
+            <avguc>100</avguc>
+            <avgdc></avgdc>
+            <avguf>0</avguf>
+            <avgdf></avgdf>
+            <avgut>1.3</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+    </aufgaben>
+</test>

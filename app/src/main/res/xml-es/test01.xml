@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE test SYSTEM "test.dtd"> -->
+<test id="1" lang="deutsch">
+    <aufgaben>
+        <aufgabe id="1">
+            <text>Resuelva las siguientes ecuaciones cuadráticas:</text>
+            <bild>test01aufgabe001</bild>
+            <hilfe>
+                <value>https://www.mathsisfun.com/algebra/quadratic-equation.html</value>
+                <value>http://www.purplemath.com/modules/quadform.htm</value>
+                <value>http://www.sosmath.com/algebra/quadraticeq/quadraformula/quadraformula.html</value>
+                <value>https://www.youtube.com/watch?v=1Pva-Iv43Nc</value>
+            </hilfe>
+            <loesung>test01loesung001</loesung>
+            <time>5.0</time>
+            <avguc>100</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>2.27</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="2">
+            <text>Determine la solución para la siguiente ecuación:</text>
+            <bild>test01aufgabe002</bild>
+            <hilfe>
+                <value>http://www.rapidtables.com/math/algebra/Quadratic_equation.htm</value>
+                <value>http://www.sosmath.com/algebra/quadraticeq/root/root.html</value>
+                <value>http://www.wikihow.com/Find-the-Roots-of-a-Quadratic-Equation</value>
+                <value>https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots</value>
+                <value>https://www.youtube.com/watch?v=C4sG7g5bQq0</value>
+            </hilfe>
+            <loesung>test01loesung002</loesung>
+            <time>6.0</time>
+            <avguc>100</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>2.42</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="3">
+            <text>Calcule:</text>
+            <bild>test01aufgabe003</bild>
+            <hilfe>
+                <value>https://www.mathsisfun.com/fractions_addition.html</value>
+                <value>https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/fractions-unlike-denom-pre-alg/v/adding-fractions-with-unlike-denominators</value>
+                <value>https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/fractions-unlike-denom-pre-alg/v/adding-fractions-ex-1</value>
+                <value>https://www.youtube.com/watch?v=5juto2ze8Lg</value>
+
+            </hilfe>
+            <loesung>test01loesung003</loesung>
+            <time>7.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>3.5</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="4">
+            <text>Simplifique al máximo las siguientes expresiones:</text>
+            <bild>test01aufgabe004</bild>
+            <hilfe>
+                <value>http://zonalandeducation.com/mmts/intersections/intersectionOfTwoLines1/intersectionOfTwoLines1.html</value>
+                <value>http://www.mathopenref.com/coordintersection.html</value>
+                <value>http://www.wikihow.com/Algebraically-Find-the-Intersection-of-Two-Lines</value>
+                <value>https://www.youtube.com/watch?v=cFPBgP0PoQk</value>
+            </hilfe>
+            <loesung>test01loesung004</loesung>
+            <time>7.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>3.26</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="5">
+            <text>Determine la intersección de las líneas:</text>
+            <bild>test01aufgabe005</bild>
+            <hilfe>
+                <value>https://www.youtube.com/watch?v=TzQnIFSA_qw</value>
+                <value>http://zonalandeducation.com/mmts/intersections/intersectionOfTwoLines1/intersectionOfTwoLines1.html</value>
+            </hilfe>
+            <loesung>test01loesung005</loesung>
+            <time>6.0</time>
+            <avguc>100</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>3.04</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+    </aufgaben>
+</test>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- <!DOCTYPE test SYSTEM "test.dtd"> -->
+<test id="1" lang="deutsch">
+    <aufgaben>
+        <aufgabe id="1">
+            <text>Calcule:</text>
+            <bild>pool01aufgabe001</bild>
+            <hilfe>
+                <value>http://www.purplemath.com/modules/solvquad2.htm</value>
+                <value>http://www.sosmath.com/algebra/quadraticeq/root/root.html</value>
+                <value>https://www.youtube.com/watch?v=C4sG7g5bQq0</value>
+                <value>https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/fractions-unlike-denom-pre-alg/v/adding-fractions-with-unlike-denominators</value>
+            </hilfe>
+            <loesung>pool01loesung001</loesung>
+            <time>6.0</time>
+            <avguc>100</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>2.43</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="2">
+            <text>Resuelva las siguientes ecuaciones cuadráticas:</text>
+            <bild>pool01aufgabe002</bild>
+            <hilfe>
+                <value>http://www.wikihow.com/Find-the-Zeros-of-a-Function</value>
+                <value>http://www.analyzemath.com/function/zeros.html</value>
+                <value>https://www.youtube.com/watch?v=6ONgEmXJxw4</value>
+                <value>https://www.youtube.com/watch?v=h9MoF-ZA6n0</value>
+            </hilfe>
+            <loesung>pool01loesung002</loesung>
+            <time>6.0</time>
+            <avguc>100</avguc>
+            <avgdc></avgdc>
+            <avguf>2</avguf>
+            <avgdf></avgdf>
+            <avgut>3.06</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="3">
+            <text>Geometría elemental:</text>
+            <bild>pool01aufgabe003</bild>
+            <hilfe>
+                <value>https://www.mathsisfun.com/triangle.html</value>
+                <value>https://www.youtube.com/watch?v=fjUN809FPRs</value>
+                <value>https://www.youtube.com/watch?v=3ofFWpIOKZA</value>
+                <value>https://www.youtube.com/watch?v=X5uFqpypDy4</value>
+                <value>https://www.youtube.com/watch?v=nVTtSE5nv7c</value>
+            </hilfe>
+            <loesung>pool01loesung003</loesung>
+            <time>11.0</time>
+            <avguc>100</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>5.4</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="4">
+            <text>Simplifique al máximo la siguiente expresión:</text>
+            <bild>pool01aufgabe004</bild>
+            <hilfe>
+                <value>http://mathworld.wolfram.com/ExponentLaws.html</value>
+                <value>https://www.mathsisfun.com/algebra/exponent-laws.html</value>
+            </hilfe>
+            <loesung>pool01loesung004</loesung>
+            <time>11.0</time>
+            <avguc>100</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>5.4</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="5">
+            <text>Resuelva las siguiente ecuaciones cuadraticas:</text>
+            <bild>pool01aufgabe005</bild>
+            <hilfe>
+                <value>http://www.purplemath.com/modules/quadform.htm</value>
+                <value>http://mathworld.wolfram.com/QuadraticEquation.html</value>
+            </hilfe>
+            <loesung>pool01loesung005</loesung>
+            <time>11.0</time>
+            <avguc>100</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>5.4</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+    </aufgaben>
+</test>
